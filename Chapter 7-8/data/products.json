@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "sku": "SKU-001",
+    "name": "Product-1",
+    "description": "Product-1 Description",
+    "images": ["url-1", "url-2", "url-3"],
+    "thumbnail": "",
+    "category": {
+      "id": "cat-1",
+      "name": "cat-1"
+    },
+    "reviews": [
+      {
+        "ratingValue": "4",
+        "comment": ""
+      },
+      {
+        "ratingValue": "3",
+        "comment": ""
+      },
+      {
+        "ratingValue": "5",
+        "comment": ""
+      }
+    ],
+    "averageRating": {
+      "value": "",
+      "count": ""
+    },
+    "price": {
+      "value": "",
+      "currency": ""
+    },
+    "stock": 10
+  }
+]
